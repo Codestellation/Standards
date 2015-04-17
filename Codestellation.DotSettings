@@ -1,0 +1,89 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2914C70BDDFCC742A196184AC99035E4/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2914C70BDDFCC742A196184AC99035E4/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2914C70BDDFCC742A196184AC99035E4/Description/@EntryValue">NUnit test method</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2914C70BDDFCC742A196184AC99035E4/Field/=do_005Fsmth/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2914C70BDDFCC742A196184AC99035E4/Field/=do_005Fsmth/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2914C70BDDFCC742A196184AC99035E4/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2914C70BDDFCC742A196184AC99035E4/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2914C70BDDFCC742A196184AC99035E4/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">4.0</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2914C70BDDFCC742A196184AC99035E4/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/Type/@EntryValue">InCSharpTypeMember</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2914C70BDDFCC742A196184AC99035E4/Shortcut/@EntryValue">tm</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2914C70BDDFCC742A196184AC99035E4/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2914C70BDDFCC742A196184AC99035E4/Text/@EntryValue">[Test]&#xD;
+public void Should_$do_smth$()&#xD;
+{&#xD;
+    // given&#xD;
+    $END$&#xD;
+&#xD;
+    // when&#xD;
+&#xD;
+    // then&#xD;
+&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=299A8140BFA01A45959356859A81F4CF/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=299A8140BFA01A45959356859A81F4CF/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=299A8140BFA01A45959356859A81F4CF/Description/@EntryValue">NUnit test SetUp method</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=299A8140BFA01A45959356859A81F4CF/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=299A8140BFA01A45959356859A81F4CF/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=299A8140BFA01A45959356859A81F4CF/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">4.0</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=299A8140BFA01A45959356859A81F4CF/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/Type/@EntryValue">InCSharpTypeMember</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=299A8140BFA01A45959356859A81F4CF/Shortcut/@EntryValue">tsu</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=299A8140BFA01A45959356859A81F4CF/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=299A8140BFA01A45959356859A81F4CF/Text/@EntryValue">[SetUp]&#xD;
+public void Setup()&#xD;
+{&#xD;
+    $END$&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/Description/@EntryValue">NUnit Assert.That() statement</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/Field/=actual/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/Field/=actual/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/Field/=expected/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/Field/=expected/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/Scope/=2C285F182AC98D44B0B4F29D4D2149EC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/Scope/=2C285F182AC98D44B0B4F29D4D2149EC/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">4.0</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/Scope/=2C285F182AC98D44B0B4F29D4D2149EC/Type/@EntryValue">InCSharpStatement</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/Shortcut/@EntryValue">at</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=4A6A3FA3BFC6DF4F82CF367B7EA4FB76/Text/@EntryValue">Assert.That($actual$, Is.EqualTo($expected$));</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9DB831026468A147AA311EDC3ED8F073/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9DB831026468A147AA311EDC3ED8F073/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9DB831026468A147AA311EDC3ED8F073/Description/@EntryValue">NUnit test TearDown method</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9DB831026468A147AA311EDC3ED8F073/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9DB831026468A147AA311EDC3ED8F073/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9DB831026468A147AA311EDC3ED8F073/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">4.0</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9DB831026468A147AA311EDC3ED8F073/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/Type/@EntryValue">InCSharpTypeMember</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9DB831026468A147AA311EDC3ED8F073/Shortcut/@EntryValue">ttd</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9DB831026468A147AA311EDC3ED8F073/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9DB831026468A147AA311EDC3ED8F073/Text/@EntryValue">[TearDown]&#xD;
+public void TearDown()&#xD;
+{&#xD;
+    $END$&#xD;
+}</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/Description/@EntryValue">NUnit test method with "if" in its name</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/Field/=condition/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/Field/=condition/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/Field/=do_005Fsmth/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/Field/=do_005Fsmth/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">4.0</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/Type/@EntryValue">InCSharpTypeMember</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/Shortcut/@EntryValue">tmif</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=F84BC09DF745AD4993A2290E4C8CDB64/Text/@EntryValue">[Test]&#xD;
+public void Should_$do_smth$_if$condition$()&#xD;
+{&#xD;
+    // given&#xD;
+    $END$&#xD;
+&#xD;
+    // when&#xD;
+&#xD;
+    // then&#xD;
+&#xD;
+}</s:String></wpf:ResourceDictionary>
