@@ -7,14 +7,14 @@ charset = utf-8
 end_of_line = crlf
 insert_final_newline = false
 
-# C#, Razor, XML, SpecFlow
-[*.{cs,cshtml,xml,xsd,feature}]
+# C#, Razor, XML, SpecFlow, PowerShell
+[*.{cs,cshtml,xml,xsd,feature,ps1}]
 indent_style = space
 indent_size = 4
 trim_trailing_whitespace = true
 
-# JavaScript, JSON, Jade, Ruby
-[*.{js,json,jade,rb}]
+# JavaScript, JSON, Jade, Ruby, Bash
+[*.{js,json,jade,rb,sh}]
 indent_style = space
 indent_size = 2
 trim_trailing_whitespace = true
