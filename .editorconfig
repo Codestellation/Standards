@@ -84,6 +84,6 @@ dotnet_style_prefer_conditional_expression_over_assignment = true:suggestion
 
 xmldoc_indent_text = remove_indent
 
-[*.{js,json,jsx,jade,rb,sh,xml,config,html,css,csproj}]
+[*.{js,json,jsx,jade,rb,sh,xml,config,html,css,csproj,props,targets}]
 indent_style = space
 indent_size = 2
