@@ -101,7 +101,8 @@ dotnet_analyzer_diagnostic.category-Reliability.severity = error
 dotnet_diagnostic.CA1822.severity = suggestion
 # CA2211: Non-constant fields should not be visible
 dotnet_diagnostic.CA2211.severity = suggestion
-
+# CA1848: Logging performance optimization suggestion
+dotnet_diagnostic.CA1848.severity = suggestion
 
 ###############################
 # Reliability Inspections     #
