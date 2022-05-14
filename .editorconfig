@@ -13,6 +13,12 @@ trim_trailing_whitespace = true
 indent_style = space
 indent_size = 2
 
+[*.csproj]
+# Look here for clarification https://www.jetbrains.com/help/resharper/EditorConfig_XML_XmlCodeStylePageSchema.html
+xml_space_before_self_closing = true
+# The next is made for Rider as it doesn't support resharper properties https://youtrack.jetbrains.com/issue/RIDER-25867
+xml_space_inside_empty_tag = true
+
 [*.cs]
 indent_style = space
 indent_size = 4
