@@ -109,6 +109,8 @@ dotnet_diagnostic.CA1822.severity = suggestion
 dotnet_diagnostic.CA2211.severity = suggestion
 # CA1848: Logging performance optimization suggestion
 dotnet_diagnostic.CA1848.severity = suggestion
+# CA1852: Seal internal types
+dotnet_diagnostic.CA1852.severity = suggestion
 
 ###############################
 # Reliability Inspections     #
