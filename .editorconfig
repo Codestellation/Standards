@@ -82,8 +82,11 @@ csharp_style_prefer_index_operator = true:warning
 csharp_style_prefer_range_operator = true:warning
 csharp_style_deconstructed_variable_declaration = true:warning
 csharp_style_prefer_switch_expression = true:warning
+csharp_blank_lines_around_local_method = 1
+csharp_blank_lines_around_single_line_local_method = 1
+csharp_local_function_body = expression_body
 
-parentheses_non_obvious_operations = none, conditional_and, bitwise, bitwise_inclusive_or, bitwise_exclusive_or, shift, bitwise_and
+parentheses_non_obvious_operations = conditional_and, bitwise, bitwise_inclusive_or, bitwise_exclusive_or, shift, bitwise_and
 parentheses_redundancy_style = remove
 
 resharper_space_within_single_line_array_initializer_braces = true
